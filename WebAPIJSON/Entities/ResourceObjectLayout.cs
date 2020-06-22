@@ -10,11 +10,6 @@ namespace WebAPIJSON.Entities
     public class ResourceObjectLayout : ResourceBase
     {
         /// <summary>
-        /// Layout type
-        /// </summary>
-        public ResourceObjectLayoutTypes LayoutType { get; set; }
-
-        /// <summary>
         /// Dimensions
         /// </summary>
         public Dictionary<string, string> Dimensions { get; set; }
@@ -22,6 +17,6 @@ namespace WebAPIJSON.Entities
         /// <summary>
         /// Mesure
         /// </summary>
-        public Dictionary<string, string> Measure { get; set; }
+        public List<Dictionary<string, string>> Measure { get; set; }
     }
 }

@@ -7,28 +7,38 @@
                         {
                             "objects": [
                                 {
-                                    "properties": {
-
-                                    },
+                                    "properties": {},
                                     "layout": {
-
+                                        "layoutType": 0,
+                                        "dimensions": {
+                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "January",
+                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "February",
+                                            "74d3d52a-c8e8-4281-a63a-27f4aaca91f8": "March"
+                                        },
+                                        "measure": {
+                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "1350",
+                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "4765",
+                                            "74d3d52a-c8e8-4281-a63a-27f4aaca91f8": "9364"
+                                        },
+                                        "id": null,
+                                        "name": null
                                     },
-                                    "type": 0,
-                                    "subtype": "Line",
+                                    "objectType": 0,
                                     "id": "5feda11c-f105-4ea9-b46b-465b59473498",
-                                    "name": ""
+                                    "name": "My Chart"
                                 },
                                 {
-                                    "properties": {
-
-                                    },
+                                    "properties": {},
                                     "layout": {
-
+                                        "layoutType": 0,
+                                        "dimensions": null,
+                                        "measure": null,
+                                        "id": "56c50f4c-bba0-4778-9a7b-4417c126a61c",
+                                        "name": ""
                                     },
-                                    "type": 1,
-                                    "subtype": null,
+                                    "objectType": 1,
                                     "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
-                                    "name": ""
+                                    "name": "My Chart 2"
                                 }
                             ]
                         }
@@ -47,26 +57,28 @@
                         {
                             "objects": [
                                 {
-                                    "properties": {
-
-                                    },
+                                    "properties": {},
                                     "layout": {
-
+                                        "layoutType": 0,
+                                        "dimensions": null,
+                                        "measure": null,
+                                        "id": null,
+                                        "name": null
                                     },
-                                    "type": 0,
-                                    "subtype": "Pie",
+                                    "objectType": 0,
                                     "id": "d0e9c0f3-1318-43f7-9f8f-b4bb0ffa8a76",
                                     "name": ""
                                 },
                                 {
-                                    "properties": {
-
-                                    },
+                                    "properties": {},
                                     "layout": {
-
+                                        "layoutType": 0,
+                                        "dimensions": null,
+                                        "measure": null,
+                                        "id": null,
+                                        "name": null
                                     },
-                                    "type": 2,
-                                    "subtype": null,
+                                    "objectType": 2,
                                     "id": "3683201f-c699-4edc-8e2f-31e1f300ad54",
                                     "name": ""
                                 }

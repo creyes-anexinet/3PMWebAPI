@@ -17,10 +17,5 @@ namespace WebAPIJSON.Entities
         /// Resource Object Layout
         /// </summary>
         public ResourceObjectLayout Layout { get; set; }
-
-        /// <summary>
-        /// Type
-        /// </summary>
-        public ResourceObjectTypes ObjectType { get; set; }
     }
 }

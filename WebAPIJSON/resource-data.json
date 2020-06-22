@@ -1,0 +1,166 @@
+﻿{
+    "streams": [
+        {
+            "applications": [
+                {
+                    "sheets": [
+                        {
+                            "objects": [
+                                {
+                                    "properties": {},
+                                    "layout": {
+                                        "dimensions": {
+                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "MainValue",
+                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "UpperValue",
+                                            "74d3d52a-c8e8-4281-a63a-27f4aaca91f8": "LowerValue"
+                                        },
+                                        "measure": [
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "$986,720",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "+$106,720",
+                                                "74d3d52a-c8e8-4281-a63a-27f4aaca91f8": "+7.6%"
+                                            }
+                                        ],
+                                        "id": null,
+                                        "name": null
+                                    },
+                                    "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                                    "name": "KPI 1"
+                                },
+                                {
+                                    "properties": {},
+                                    "layout": {
+                                        "dimensions": {
+                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "Jan",
+                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "Feb",
+                                            "9f9e69dd-4153-4001-b88e-6907408c7439": "Mar",
+                                            "e3a9a989-7437-4c1b-97eb-b1026cced4f2": "Apr",
+                                            "e1cd40d2-90f7-405e-a17f-6321a48ee2f1": "May",
+                                            "456691d2-d178-4d9e-bd4c-4e6eece63acc": "Jun"
+                                        },
+                                        "measure": [
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "52%",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "17%",
+                                                "9f9e69dd-4153-4001-b88e-6907408c7439": "11%",
+                                                "e3a9a989-7437-4c1b-97eb-b1026cced4f2": "68%",
+                                                "e1cd40d2-90f7-405e-a17f-6321a48ee2f1": "50%",
+                                                "456691d2-d178-4d9e-bd4c-4e6eece63acc": "27%"
+                                            }
+                                        ],
+                                        "id": null,
+                                        "name": null
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Vertical Bar Chart"
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "9d129694-3829-44be-9ed1-7305a2e8c794",
+                    "name": "Regulations App"
+                }
+            ],
+            "id": "1ea7cac3-8f23-4e48-8e8a-84da319a0785",
+            "name": "3PM Stream"
+        },
+        {
+            "applications": [
+                {
+                    "sheets": [
+                        {
+                            "objects": [
+                                {
+                                    "properties": {},
+                                    "layout": {
+                                        "dimensions": {
+                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "5x5",
+                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "5x10",
+                                            "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "5x15",
+                                            "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "10x10",
+                                            "9b61760c-dab5-4062-9b92-a059ae37fd75": "10x15",
+                                            "4faed222-9c75-4bf7-93d1-b205215cd2ad": "10x20",
+                                            "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "10x25",
+                                            "5d4673e2-38df-4659-a68e-92468dd78eb9": "10x30"
+                                        },
+                                        "measure": [
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "51",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "65",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "93",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "70",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "22",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "30",
+                                                "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "96",
+                                                "5d4673e2-38df-4659-a68e-92468dd78eb9": "90"
+                                            }
+                                        ],
+                                        "id": null,
+                                        "name": null
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Horizontal Bar Chart"
+                                },
+                                {
+                                    "properties": {},
+                                    "layout": {
+                                        "dimensions": {
+                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "5x5",
+                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "5x10",
+                                            "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "5x15",
+                                            "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "10x10",
+                                            "9b61760c-dab5-4062-9b92-a059ae37fd75": "10x15",
+                                            "4faed222-9c75-4bf7-93d1-b205215cd2ad": "10x20",
+                                            "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "10x25",
+                                            "5d4673e2-38df-4659-a68e-92468dd78eb9": "10x30"
+                                        },
+                                        "measure": [
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "51",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "65",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "93",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "70",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "22",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "30",
+                                                "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "96",
+                                                "5d4673e2-38df-4659-a68e-92468dd78eb9": "90"
+                                            },
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "52",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "64",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "91",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "71",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "25",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "35",
+                                                "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "94",
+                                                "5d4673e2-38df-4659-a68e-92468dd78eb9": "94"
+                                            },
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "53",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "67",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "95",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "74",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "23",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "31",
+                                                "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "92",
+                                                "5d4673e2-38df-4659-a68e-92468dd78eb9": "97"
+                                            }
+                                        ],
+                                        "id": null,
+                                        "name": null
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Stacked Horizontal Bar Chart"
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "9d129694-3829-44be-9ed1-7305a2e8c794",
+                    "name": "Sales App"
+                }
+            ],
+            "id": "1ea7cac3-8f23-4e48-8e8a-84da319a0785",
+            "name": "CubeSmart Administrative Stream"
+        }
+    ]
+}

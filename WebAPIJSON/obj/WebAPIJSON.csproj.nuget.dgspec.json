@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cndarzoi/Projects/WebAPIJSON/WebAPIJSON/WebAPIJSON.csproj": {}
+    "/Users/cndarzoi/Projects/3PMWebAPI/WebAPIJSON/WebAPIJSON.csproj": {}
   },
   "projects": {
-    "/Users/cndarzoi/Projects/WebAPIJSON/WebAPIJSON/WebAPIJSON.csproj": {
+    "/Users/cndarzoi/Projects/3PMWebAPI/WebAPIJSON/WebAPIJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cndarzoi/Projects/WebAPIJSON/WebAPIJSON/WebAPIJSON.csproj",
+        "projectUniqueName": "/Users/cndarzoi/Projects/3PMWebAPI/WebAPIJSON/WebAPIJSON.csproj",
         "projectName": "WebAPIJSON",
-        "projectPath": "/Users/cndarzoi/Projects/WebAPIJSON/WebAPIJSON/WebAPIJSON.csproj",
+        "projectPath": "/Users/cndarzoi/Projects/3PMWebAPI/WebAPIJSON/WebAPIJSON.csproj",
         "packagesPath": "/Users/cndarzoi/.nuget/packages/",
-        "outputPath": "/Users/cndarzoi/Projects/WebAPIJSON/WebAPIJSON/obj/",
+        "outputPath": "/Users/cndarzoi/Projects/3PMWebAPI/WebAPIJSON/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
