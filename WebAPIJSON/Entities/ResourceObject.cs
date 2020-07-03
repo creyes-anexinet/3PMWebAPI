@@ -9,11 +9,6 @@ namespace WebAPIJSON.Entities
     public class ResourceObject : ResourceBase
     {
         /// <summary>
-        /// Resource Object Properties
-        /// </summary>
-        public ResourceObjectProperties Properties { get; set; }
-
-        /// <summary>
         /// Resource Object Layout
         /// </summary>
         public ResourceObjectLayout Layout { get; set; }

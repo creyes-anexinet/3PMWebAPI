@@ -14,6 +14,6 @@ namespace WebAPIJSON.Entities
         /// <summary>
         /// Name
         /// </summary>
-        public string Name { get; set; }
+        public string Caption { get; set; }
     }
 }

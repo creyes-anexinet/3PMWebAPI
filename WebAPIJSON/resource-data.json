@@ -7,37 +7,54 @@
                         {
                             "objects": [
                                 {
-                                    "properties": {},
                                     "layout": {
-                                        "dimensions": {
-                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "MainValue",
-                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "UpperValue",
-                                            "74d3d52a-c8e8-4281-a63a-27f4aaca91f8": "LowerValue"
-                                        },
-                                        "measure": [
-                                            {
-                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "$986,720",
-                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "+$106,720",
-                                                "74d3d52a-c8e8-4281-a63a-27f4aaca91f8": "+7.6%"
-                                            }
-                                        ],
-                                        "id": null,
-                                        "name": null
+                                        "caption": "$986,720",
+                                        "dimensionGroups": null,
+                                        "dimensions": null,
+                                        "measure": null,
+                                        "upperValue": "+7.6%",
+                                        "topperValue": "+$106,720",
+                                        "helpTips": null
                                     },
                                     "id": "5feda11c-f105-4ea9-b46b-465b59473498",
                                     "name": "KPI 1"
                                 },
                                 {
-                                    "properties": {},
                                     "layout": {
-                                        "dimensions": {
-                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "Jan",
-                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "Feb",
-                                            "9f9e69dd-4153-4001-b88e-6907408c7439": "Mar",
-                                            "e3a9a989-7437-4c1b-97eb-b1026cced4f2": "Apr",
-                                            "e1cd40d2-90f7-405e-a17f-6321a48ee2f1": "May",
-                                            "456691d2-d178-4d9e-bd4c-4e6eece63acc": "Jun"
-                                        },
+                                        "caption": null,
+                                        "dimensionGroups": null,
+                                        "dimensions": [
+                                            {
+                                                "groupId": null,
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "Jan"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "Feb"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "9f9e69dd-4153-4001-b88e-6907408c7439",
+                                                "name": "Mar"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "e3a9a989-7437-4c1b-97eb-b1026cced4f2",
+                                                "name": "Apr"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "e1cd40d2-90f7-405e-a17f-6321a48ee2f1",
+                                                "name": "May"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "456691d2-d178-4d9e-bd4c-4e6eece63acc",
+                                                "name": "Jun"
+                                            }
+                                        ],
                                         "measure": [
                                             {
                                                 "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "52%",
@@ -48,41 +65,61 @@
                                                 "456691d2-d178-4d9e-bd4c-4e6eece63acc": "27%"
                                             }
                                         ],
-                                        "id": null,
-                                        "name": null
+                                        "upperValue": null,
+                                        "topperValue": "96%",
+                                        "helpTips": {
+                                            "5ef86250-f844-40e7-aa67-7f26af310a4e": "- - - Budget"
+                                        }
                                     },
                                     "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
-                                    "name": "Vertical Bar Chart"
-                                }
-                            ]
-                        }
-                    ],
-                    "id": "9d129694-3829-44be-9ed1-7305a2e8c794",
-                    "name": "Regulations App"
-                }
-            ],
-            "id": "1ea7cac3-8f23-4e48-8e8a-84da319a0785",
-            "name": "3PM Stream"
-        },
-        {
-            "applications": [
-                {
-                    "sheets": [
-                        {
-                            "objects": [
+                                    "name": "Bar Chart with optional Budget"
+                                },
                                 {
-                                    "properties": {},
                                     "layout": {
-                                        "dimensions": {
-                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "5x5",
-                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "5x10",
-                                            "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "5x15",
-                                            "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "10x10",
-                                            "9b61760c-dab5-4062-9b92-a059ae37fd75": "10x15",
-                                            "4faed222-9c75-4bf7-93d1-b205215cd2ad": "10x20",
-                                            "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "10x25",
-                                            "5d4673e2-38df-4659-a68e-92468dd78eb9": "10x30"
-                                        },
+                                        "caption": null,
+                                        "dimensionGroups": null,
+                                        "dimensions": [
+                                            {
+                                                "groupId": null,
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "5x5"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "5x10"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e",
+                                                "name": "5x15"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d",
+                                                "name": "10x10"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "9b61760c-dab5-4062-9b92-a059ae37fd75",
+                                                "name": "10x15"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "4faed222-9c75-4bf7-93d1-b205215cd2ad",
+                                                "name": "10x20"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "e855f79d-701d-4c18-9f2b-fe6484b4ac84",
+                                                "name": "10x25"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "5d4673e2-38df-4659-a68e-92468dd78eb9",
+                                                "name": "10x30"
+                                            }
+                                        ],
                                         "measure": [
                                             {
                                                 "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "51",
@@ -95,25 +132,61 @@
                                                 "5d4673e2-38df-4659-a68e-92468dd78eb9": "90"
                                             }
                                         ],
-                                        "id": null,
-                                        "name": null
+                                        "upperValue": null,
+                                        "topperValue": "96%",
+                                        "helpTips": {
+                                            "5ef86250-f844-40e7-aa67-7f26af310a4e": "- - - Budget"
+                                        }
                                     },
                                     "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
-                                    "name": "Horizontal Bar Chart"
+                                    "name": "Horizontal Bar Chart with optional Budget"
                                 },
                                 {
-                                    "properties": {},
                                     "layout": {
-                                        "dimensions": {
-                                            "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "5x5",
-                                            "0aa7afde-3ac2-43e8-baa1-285c378ae864": "5x10",
-                                            "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "5x15",
-                                            "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "10x10",
-                                            "9b61760c-dab5-4062-9b92-a059ae37fd75": "10x15",
-                                            "4faed222-9c75-4bf7-93d1-b205215cd2ad": "10x20",
-                                            "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "10x25",
-                                            "5d4673e2-38df-4659-a68e-92468dd78eb9": "10x30"
-                                        },
+                                        "caption": null,
+                                        "dimensionGroups": null,
+                                        "dimensions": [
+                                            {
+                                                "groupId": null,
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "5x5"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "5x10"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e",
+                                                "name": "5x15"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d",
+                                                "name": "10x10"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "9b61760c-dab5-4062-9b92-a059ae37fd75",
+                                                "name": "10x15"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "4faed222-9c75-4bf7-93d1-b205215cd2ad",
+                                                "name": "10x20"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "e855f79d-701d-4c18-9f2b-fe6484b4ac84",
+                                                "name": "10x25"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "5d4673e2-38df-4659-a68e-92468dd78eb9",
+                                                "name": "10x30"
+                                            }
+                                        ],
                                         "measure": [
                                             {
                                                 "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "51",
@@ -146,21 +219,413 @@
                                                 "5d4673e2-38df-4659-a68e-92468dd78eb9": "97"
                                             }
                                         ],
-                                        "id": null,
-                                        "name": null
+                                        "upperValue": null,
+                                        "topperValue": null,
+                                        "helpTips": null
                                     },
                                     "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
-                                    "name": "Stacked Horizontal Bar Chart"
+                                    "name": "Stacked Bar Chart"
+                                },
+                                {
+                                    "layout": {
+                                        "caption": null,
+                                        "dimensionGroups": null,
+                                        "dimensions": [
+                                            {
+                                                "groupId": null,
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "5x5"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "5x10"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e",
+                                                "name": "5x15"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d",
+                                                "name": "10x10"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "9b61760c-dab5-4062-9b92-a059ae37fd75",
+                                                "name": "10x15"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "4faed222-9c75-4bf7-93d1-b205215cd2ad",
+                                                "name": "10x20"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "e855f79d-701d-4c18-9f2b-fe6484b4ac84",
+                                                "name": "10x25"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "5d4673e2-38df-4659-a68e-92468dd78eb9",
+                                                "name": "10x30"
+                                            }
+                                        ],
+                                        "measure": [
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "51",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "65",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "93",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "70",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "22",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "30",
+                                                "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "96",
+                                                "5d4673e2-38df-4659-a68e-92468dd78eb9": "90"
+                                            },
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "52",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "64",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "91",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "71",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "25",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "35",
+                                                "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "94",
+                                                "5d4673e2-38df-4659-a68e-92468dd78eb9": "94"
+                                            },
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "53",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "67",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "95",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "74",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "23",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "31",
+                                                "e855f79d-701d-4c18-9f2b-fe6484b4ac84": "92",
+                                                "5d4673e2-38df-4659-a68e-92468dd78eb9": "97"
+                                            }
+                                        ],
+                                        "upperValue": null,
+                                        "topperValue": "96%",
+                                        "helpTips": {
+                                            "5ef86250-f844-40e7-aa67-7f26af310a4e": "- - - Budget"
+                                        }
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Stacked Horizontal Bar Chart with optional Budget"
+                                },
+                                {
+                                    "layout": {
+                                        "caption": null,
+                                        "dimensionGroups": null,
+                                        "dimensions": [
+                                            {
+                                                "groupId": null,
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "Fees"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "Waived Fees"
+                                            }
+                                        ],
+                                        "measure": [
+                                            {
+                                                "5ef86250-f844-40e7-aa67-7f26af310a4e": "-2,000",
+                                                "d5cb9356-ff49-4099-a594-2c7949614e95": "14,000"
+                                            }
+                                        ],
+                                        "upperValue": null,
+                                        "topperValue": null,
+                                        "helpTips": null
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Single Horizontal Bar Chart"
+                                },
+                                {
+                                    "layout": {
+                                        "caption": null,
+                                        "dimensionGroups": {
+                                            "5ef86250-f844-40e7-aa67-7f26af310a4e": "REVENUE",
+                                            "b922eb88-a93e-47a6-ad18-8d79d1141642": "ALLOWANCES"
+                                        },
+                                        "dimensions": [
+                                            {
+                                                "groupId": "5ef86250-f844-40e7-aa67-7f26af310a4e",
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "Accured Rent"
+                                            },
+                                            {
+                                                "groupId": "5ef86250-f844-40e7-aa67-7f26af310a4e",
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "Merchandise"
+                                            },
+                                            {
+                                                "groupId": "5ef86250-f844-40e7-aa67-7f26af310a4e",
+                                                "id": "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e",
+                                                "name": "Fees"
+                                            },
+                                            {
+                                                "groupId": "5ef86250-f844-40e7-aa67-7f26af310a4e",
+                                                "id": "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d",
+                                                "name": "Insurance"
+                                            },
+                                            {
+                                                "groupId": "b922eb88-a93e-47a6-ad18-8d79d1141642",
+                                                "id": "9b61760c-dab5-4062-9b92-a059ae37fd75",
+                                                "name": "Write-Offs"
+                                            },
+                                            {
+                                                "groupId": "b922eb88-a93e-47a6-ad18-8d79d1141642",
+                                                "id": "4faed222-9c75-4bf7-93d1-b205215cd2ad",
+                                                "name": "Discounts"
+                                            }
+                                        ],
+                                        "measure": [
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "-10,000",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "-5,000",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "300,000",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "600,000",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "555,000",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "123,000"
+                                            }
+                                        ],
+                                        "upperValue": null,
+                                        "topperValue": null,
+                                        "helpTips": null
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Single Stacked Horizontal Bar Chart"
+                                },
+                                {
+                                    "layout": {
+                                        "caption": null,
+                                        "dimensionGroups": null,
+                                        "dimensions": [
+                                            {
+                                                "groupId": null,
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "Jan"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "Feb"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e",
+                                                "name": "Mar"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d",
+                                                "name": "Apr"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "9b61760c-dab5-4062-9b92-a059ae37fd75",
+                                                "name": "May"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "4faed222-9c75-4bf7-93d1-b205215cd2ad",
+                                                "name": "Jun"
+                                            }
+                                        ],
+                                        "measure": [
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "72",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "58",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "41",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "52",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "36",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "74"
+                                            }
+                                        ],
+                                        "upperValue": null,
+                                        "topperValue": null,
+                                        "helpTips": null
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Single Line Chart with optional Budget"
+                                },
+                                {
+                                    "layout": {
+                                        "caption": null,
+                                        "dimensionGroups": null,
+                                        "dimensions": [
+                                            {
+                                                "groupId": null,
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "Jan"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "Feb"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e",
+                                                "name": "Mar"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d",
+                                                "name": "Apr"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "9b61760c-dab5-4062-9b92-a059ae37fd75",
+                                                "name": "May"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "4faed222-9c75-4bf7-93d1-b205215cd2ad",
+                                                "name": "Jun"
+                                            }
+                                        ],
+                                        "measure": [
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "72",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "58",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "41",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "52",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "36",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "74"
+                                            },
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "72",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "58",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "41",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "52",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "36",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "74"
+                                            },
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "72",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "58",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "41",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "52",
+                                                "9b61760c-dab5-4062-9b92-a059ae37fd75": "36",
+                                                "4faed222-9c75-4bf7-93d1-b205215cd2ad": "74"
+                                            }
+                                        ],
+                                        "upperValue": null,
+                                        "topperValue": null,
+                                        "helpTips": null
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Multiple Line Chart"
+                                },
+                                {
+                                    "layout": {
+                                        "caption": null,
+                                        "dimensionGroups": null,
+                                        "dimensions": null,
+                                        "measure": null,
+                                        "upperValue": "6",
+                                        "topperValue": "86",
+                                        "helpTips": null
+                                    },
+                                    "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                                    "name": "Donut Chart"
+                                },
+                                {
+                                    "layout": {
+                                        "caption": null,
+                                        "dimensionGroups": null,
+                                        "dimensions": [
+                                            {
+                                                "groupId": null,
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "Online"
+                                            },
+                                            {
+                                                "groupId": null,
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "In Person"
+                                            }
+                                        ],
+                                        "measure": [
+                                            {
+                                                "5ef86250-f844-40e7-aa67-7f26af310a4e": "9,000",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "6,000"
+                                            },
+                                            {
+                                                "5ef86250-f844-40e7-aa67-7f26af310a4e": "60%",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "40%"
+                                            }
+                                        ],
+                                        "upperValue": null,
+                                        "topperValue": null,
+                                        "helpTips": null
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Donut Chart with Legend"
+                                },
+                                {
+                                    "layout": {
+                                        "caption": null,
+                                        "dimensionGroups": {
+                                            "5ef86250-f844-40e7-aa67-7f26af310a4e": "REVENUE",
+                                            "b922eb88-a93e-47a6-ad18-8d79d1141642": "TOTAL",
+                                            "d70e3d98-3565-4e82-90b6-443783a99adb": "BUDGET"
+                                        },
+                                        "dimensions": [
+                                            {
+                                                "groupId": "5ef86250-f844-40e7-aa67-7f26af310a4e",
+                                                "id": "5a20d50c-0c50-4702-91f3-d7368c8a4b70",
+                                                "name": "Accured Rent"
+                                            },
+                                            {
+                                                "groupId": "5ef86250-f844-40e7-aa67-7f26af310a4e",
+                                                "id": "0aa7afde-3ac2-43e8-baa1-285c378ae864",
+                                                "name": "Merchandise"
+                                            },
+                                            {
+                                                "groupId": "5ef86250-f844-40e7-aa67-7f26af310a4e",
+                                                "id": "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e",
+                                                "name": "Fees"
+                                            },
+                                            {
+                                                "groupId": "5ef86250-f844-40e7-aa67-7f26af310a4e",
+                                                "id": "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d",
+                                                "name": "Insurance"
+                                            }
+                                        ],
+                                        "measure": [
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "$143,712",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "$150,00",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "$50,000",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "$10,000"
+                                            },
+                                            {
+                                                "5a20d50c-0c50-4702-91f3-d7368c8a4b70": "+2.3%",
+                                                "0aa7afde-3ac2-43e8-baa1-285c378ae864": "+0.5%",
+                                                "5a895e4d-73ee-4209-b8ad-f8fd4ed0d44e": "-1.1%",
+                                                "35f88e1c-e8ab-47a7-95d2-ad9f8acde46d": "+1.3%"
+                                            }
+                                        ],
+                                        "upperValue": null,
+                                        "topperValue": null,
+                                        "helpTips": null
+                                    },
+                                    "id": "2b9adb45-cc56-44d5-84e4-f1d52bff4e09",
+                                    "name": "Table"
                                 }
                             ]
                         }
                     ],
                     "id": "9d129694-3829-44be-9ed1-7305a2e8c794",
-                    "name": "Sales App"
+                    "name": "Regulations App"
                 }
             ],
             "id": "1ea7cac3-8f23-4e48-8e8a-84da319a0785",
-            "name": "CubeSmart Administrative Stream"
+            "name": "3PM Stream"
         }
     ]
 }
